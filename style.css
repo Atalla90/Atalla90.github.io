@@ -215,6 +215,7 @@ samp {
   position: relative; 
   min-height: 1px; 
   padding: 5px; 
+  padding-left: 28px;
   float: left;
 }
 
@@ -267,6 +268,7 @@ samp {
 .block {
 width: 306px;
 height: 230px;
+margin: 15px;
 }
 
 .red {background: #FF6900;}
