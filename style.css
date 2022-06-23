@@ -295,6 +295,9 @@ html {
     width: 100%;
   }
 
+.footer{
+    position: relative;
+}
   .e92_46 { 
     border-radius:  100%;
     background-color:rgba(207.00000286102295, 46.000001057982445, 46.000001057982445, 1);
@@ -398,7 +401,7 @@ html {
   .e92_58 { 
     width:1301px;
     height:327px;
-    position:relative;
+    position:absolute;
     left:75px;
     top:764px;
   }
