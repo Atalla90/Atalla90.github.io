@@ -165,6 +165,7 @@ html {
      list-style-type: none;
      -webkit-font-smoothing: antialiased;
      /* to stop flickering of text in safari */
+     box-shadow: -2px 2px 8px 2px grey;
      
      transform-origin: 0% 0%;
      transform: translate(-100%, 0);
@@ -275,6 +276,8 @@ html {
   margin: 30px;
   margin-left: 200px;
   margin-top: 75px;
+  border-radius: 20px;
+  box-shadow: -2px 2px 8px 2px grey;
   
   }
   
@@ -326,19 +329,16 @@ position: relative;
 
 h1{text-align: center;
     font-family:"Avenir Next", "Avenir", sans-serif;
-font-size:xx-small;
+font-size:30px;
 
  }
 
 .footer{
     position: relative;
-
-    
-}
-
-.block {
     border-radius: 20px;
+    box-shadow: -2px 2;x 8px 2px grey;
 }
+
 
   
   
