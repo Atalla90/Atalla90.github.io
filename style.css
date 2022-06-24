@@ -298,6 +298,11 @@ html {
 .footer{
     position: relative;
 }
+
+.block {
+    border-radius: 20px;
+}
+
   .e92_46 { 
     border-radius:  100%;
     background-color:rgba(207.00000286102295, 46.000001057982445, 46.000001057982445, 1);
