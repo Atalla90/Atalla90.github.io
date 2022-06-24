@@ -333,6 +333,13 @@ position: relative;
     width: 100%;
 }
     
+h1{text-align: center;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size:xx-small;
+
+ }
+    
+    
 .footer{
     position: relative;
 }
