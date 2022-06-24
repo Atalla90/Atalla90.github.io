@@ -305,7 +305,10 @@ display:flex;
 margin-left: 100px;
 margin-right: 100px;
 padding: 50px;
-position: relative;
+position: relative
+border-radius: 20px;
+box-shadow: -2px 2;x 8px 2px grey;
+}
 
 /* For desktop: */
 .col-1 {width: 8.33%;}
@@ -333,11 +336,7 @@ font-size:30px;
 
  }
 
-.footer{
-    position: relative;
-    border-radius: 20px;
-    box-shadow: -2px 2;x 8px 2px grey;
-}
+
 
 
   
